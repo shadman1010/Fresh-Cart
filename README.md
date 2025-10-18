@@ -4,7 +4,7 @@ Fresh-Cart is a Flutter-based application designed to simplify farm management a
 
 ## APK Download Link
 
-[Download APK](#) <!-- Replace `#` with the actual link to the APK -->
+[Download APK]([#](https://github.com/shadman1010/Fresh-Cart/blob/main/app-armeabi-v7a-release.apk)) <!-- Replace `#` with the actual link to the APK -->
 
 ## Getting Started
 
